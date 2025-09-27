@@ -18,11 +18,11 @@ pkg install git -y
 ```
 3. Clone this repo
 ```
-git clone https://github.com/barbexid/dor
+git clone https://github.com/shandycyber/shan-dy
 ```
 4. Open the folder
 ```
-cd dor
+cd shan-dy
 ```
 5. Setup
 ```
